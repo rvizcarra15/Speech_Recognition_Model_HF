@@ -1,4 +1,4 @@
 # Speech_Recognition_Model_HF
-Automatic Speech Recognition with PyTorch &amp; Hugging Face
+Automatic Speech Recognition with PyTorch and Hugging Face
 
-Learn Video-to-Text transcription and translation using the Transformers library as we journey through time with the eyes of Steve Jobs, Marian Rejewski, and John F. Kennedy.
+A guide for Video-to-Text transcription and translation using PyTorch and the Transformers library from HuggingFace as we journey through time with the eyes of Steve Jobs, Marian Rejewski, and John F. Kennedy.
